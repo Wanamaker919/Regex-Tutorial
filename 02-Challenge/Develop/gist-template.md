@@ -1,4 +1,4 @@
- Project #17: Computer Science for JavaScript - Regex Tutorial
+** Project #17: Computer Science for JavaScript - Regex Tutorial**
 
 Introductory paragraph (replace this with your text)
 
@@ -98,4 +98,4 @@ Feel free to explore more regex patterns and experiment with different use cases
 Happy coding!
 
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+A short section about the author with a link to the author's GitHub profile ( https://wanamaker919.github.io/Regex-Tutorial/ )
